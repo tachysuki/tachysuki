@@ -6,8 +6,8 @@
 | 名前 | 中トロ |
 | 学生? | true |
 | 主に使っている言語 | Python, C# |
-| パソコン | MacBookAir(2017) |
-| OS | macOS Catalina |
+| パソコン | MacBook Air(2017) |
+| OS | macOS Big Sur |
 | サブPC | なし |
 | 力作 | [TGS-Rally(ほぼ非公開だけど...)](https://github.com/Detteiu-Yoshida/TGS-Rally), [MAGI_SYSTEM](https://github.com/Detteiu-Yoshida/MAGI_SYSTEM) |
 | 好きな曲 | [真紅の同志～タイムファイヤーのテーマ～](https://www.youtube.com/watch?v=MtzeXyhV8Vk) |
