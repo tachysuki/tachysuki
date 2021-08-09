@@ -1,4 +1,6 @@
 # About me
+色々あってUnityでレースゲーム作ってる人
+今年度中は受験があるのであんまり使わないはず
 [![trophy](https://github-profile-trophy.vercel.app/?username=Detteiu-Yoshida)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Detteiu-Yoshida)](https://github.com/anuraghazra/github-readme-stats)
