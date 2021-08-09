@@ -9,7 +9,7 @@
 | パソコン | MacBookAir(2017) |
 | OS | macOS Catalina |
 | サブPC | なし |
-| 力作 | [TGS-Rally(ほぼ非公開だけど...)](https://github.com/Detteiu-Yoshida/TGS-Rally), [MAGI_SYSTEM]((https://github.com/Detteiu-Yoshida/MAGI_SYSTEM)) |
+| 力作 | [TGS-Rally(ほぼ非公開だけど...)](https://github.com/Detteiu-Yoshida/TGS-Rally), [MAGI_SYSTEM](https://github.com/Detteiu-Yoshida/MAGI_SYSTEM) |
 | 好きな曲 | [真紅の同志～タイムファイヤーのテーマ～](https://www.youtube.com/watch?v=MtzeXyhV8Vk) |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Detteiu-Yoshida)](https://github.com/ryo-ma/github-profile-trophy)
