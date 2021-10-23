@@ -10,7 +10,7 @@
 | OS | macOS Big Sur |
 | サブPC | なし |
 | 力作 | [TGS-Rally(ほぼ非公開だけど...)](https://github.com/Detteiu-Yoshida/TGS-Rally), [MAGI_SYSTEM](https://github.com/Detteiu-Yoshida/MAGI_SYSTEM) |
-| 好きな曲 | [真紅の同志～タイムファイヤーのテーマ～](https://www.youtube.com/watch?v=MtzeXyhV8Vk) |
+| 好きな曲 | [GIRL'S LEGEND U](https://www.youtube.com/watch?v=nRxd2lSg5Ug),[Make debut!](https://www.youtube.com/watch?v=Py6QOme2sgQ) |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Detteiu-Yoshida)](https://github.com/ryo-ma/github-profile-trophy)
 
