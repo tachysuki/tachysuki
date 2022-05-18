@@ -8,9 +8,9 @@
 | 主に使っている言語 | Python, C# |
 | パソコン | MacBook Air(2017) |
 | OS | macOS Big Sur |
-| サブPC | なし |
+| サブPC | MSI Prestige 14 |
 | 力作 | [MAGI_SYSTEM](https://github.com/Detteiu-Yoshida/MAGI_SYSTEM) |
-| 好きな曲 | [GIRL'S LEGEND U](https://www.youtube.com/watch?v=nRxd2lSg5Ug),[Make debut!](https://www.youtube.com/watch?v=Py6QOme2sgQ) |
+| 好きな曲 | [UNLIMITED IMPACT](https://www.youtube.com/watch?v=DLIHbUZzshg) |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Detteiu-Yoshida)](https://github.com/ryo-ma/github-profile-trophy)
 
