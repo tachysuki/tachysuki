@@ -8,6 +8,7 @@
 | パソコン | MacBook Air(2017) |
 | OS | macOS Big Sur |
 | サブPC | MSI Prestige 14 |
+| 作業環境　| 静か　|
 | 力作 | [MAGI_SYSTEM](https://github.com/Chutoro-Detteiu/MAGI_SYSTEM) |
 | 好きな曲 | [UNLIMITED IMPACT](https://www.youtube.com/watch?v=DLIHbUZzshg) |
 
