@@ -12,7 +12,7 @@ LFSでParcaeを作ってます
 | 力作 | [フクちゃんおみくじbot](https://github.com/tachysuki/fukukitaru) |
 | 好きな曲 | [808]([https://www.youtube.com/watch?v=DLIHbUZzshg](https://www.youtube.com/watch?v=iHVyLSG6jaE)) |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tachysuki](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tachysuki)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tachysuki)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tachysuki&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/tachysuki)
