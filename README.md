@@ -10,7 +10,7 @@ LFSでParcaeを作ってます
 | サブPC | MSI Prestige 14 |
 | 作業環境　| 静か　|
 | 力作 | [フクちゃんおみくじbot](https://github.com/tachysuki/fukukitaru) |
-| 好きな曲 | [808]([https://www.youtube.com/watch?v=DLIHbUZzshg](https://www.youtube.com/watch?v=iHVyLSG6jaE)) |
+| 好きな曲 | [808](https://www.youtube.com/watch?v=iHVyLSG6jaE) |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tachysuki)](https://github.com/ryo-ma/github-profile-trophy)
 
