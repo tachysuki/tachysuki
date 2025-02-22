@@ -1,5 +1,5 @@
 # About me
-LFSでParcaeを作ってます
+UbuntuベースでParcaeを作ってます
 | ↓| 説明 |
 | - | - |
 | 名前 | たきすき |
