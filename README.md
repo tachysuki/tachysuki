@@ -1,16 +1,14 @@
 # About me
-UbuntuベースでParcaeを作ってます
+UbuntuベースでParcaeを作ってました
 | ↓| 説明 |
 | - | - |
 | 名前 | たきすき |
 | 学生? | true |
 | 主に使っている言語 | Python, C#, C++, C|
 | パソコン | MacBook Air(2017) |
-| OS | macOS Big Sur |
+| OS | Ubuntu 26.04 |
 | サブPC | MSI Prestige 14 |
 | 作業環境　| 静か　|
-| 力作 | [フクちゃんおみくじbot](https://github.com/tachysuki/fukukitaru) |
-| 好きな曲 | [808](https://www.youtube.com/watch?v=iHVyLSG6jaE) |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tachysuki)](https://github.com/ryo-ma/github-profile-trophy)
 
