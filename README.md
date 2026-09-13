@@ -6,7 +6,7 @@ UbuntuベースでParcaeを作ってました
 | 学生? | true |
 | 主に使っている言語 | Python, C#, C++, C|
 | パソコン | MacBook Air(2017) |
-| OS | Ubuntu 26.04 |
+| OS | Ubuntu 26.04 / Windows 11 |
 | サブPC | MSI Prestige 14 |
 | 作業環境　| 静か　|
 
